@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """Điểm khởi động:  python main.py [--reset-data] [--version]
 
 --reset-data : xóa kho.json hiện có (đã sao lưu) và sinh lại dữ liệu mẫu.
