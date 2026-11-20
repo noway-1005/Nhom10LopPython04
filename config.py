@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """Cấu hình và hằng số dùng chung toàn ứng dụng (đường dẫn, tham số mặc định, giao diện)."""
 import os
 import sys
