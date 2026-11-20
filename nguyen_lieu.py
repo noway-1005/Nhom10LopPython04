@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+
 """Lớp dữ liệu NguyenLieu: đóng gói thuộc tính bằng property, kiểm tra dữ liệu trong setter."""
 from datetime import date
 
