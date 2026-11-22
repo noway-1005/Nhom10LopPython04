@@ -1,0 +1,4773 @@
+{
+  "nguon": "https://www.themealdb.com/api/json/v1/1/search.php",
+  "thoi_gian": "2026-11-22T10:27:07",
+  "tu_khoa": [
+    "chicken",
+    "beef",
+    "fish"
+  ],
+  "so_mon": 70,
+  "loi": [],
+  "mon_an": [
+    {
+      "id": "52795",
+      "ten_mon": "Chicken Handi",
+      "dinh_muc": [
+        {
+          "ten": "Chicken",
+          "so_luong": 300.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Onion",
+          "so_luong": 1.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Tomatoes",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Garlic",
+          "so_luong": 2.0,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Ginger Paste",
+          "so_luong": 3.75,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Vegetable Oil",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Cumin Seeds",
+          "so_luong": 2.5,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Coriander Seeds",
+          "so_luong": 3.75,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Turmeric Powder",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Chilli Powder",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Green Chilli",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Yogurt",
+          "so_luong": 60.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Cream",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Fenugreek",
+          "so_luong": 3.75,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Garam Masala",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Salt",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        }
+      ]
+    },
+    {
+      "id": "53358",
+      "ten_mon": "Chicken Mandi",
+      "dinh_muc": [
+        {
+          "ten": "Chicken",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Basmati Rice",
+          "so_luong": 120.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Water",
+          "so_luong": 240.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Onion",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Garlic",
+          "so_luong": 1.0,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Green Chilli",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Salt",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Oil",
+          "so_luong": 0.75,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Turmeric Powder",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Coriander",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Cardamom",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Cloves",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Cinnamon",
+          "so_luong": 0.625,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Pepper",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Bay Leaf",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        }
+      ]
+    },
+    {
+      "id": "53110",
+      "ten_mon": "Sticky Chicken",
+      "dinh_muc": [
+        {
+          "ten": "Chicken Drumsticks",
+          "so_luong": 2.0,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Soy Sauce",
+          "so_luong": 7.5,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Honey",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Olive Oil",
+          "so_luong": 3.75,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Tomato Puree",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Dijon Mustard",
+          "so_luong": 3.75,
+          "don_vi": "ml"
+        }
+      ]
+    },
+    {
+      "id": "52956",
+      "ten_mon": "Chicken Congee",
+      "dinh_muc": [
+        {
+          "ten": "Chicken",
+          "so_luong": 56.7,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Salt",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Pepper",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Ginger Cordial",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Ginger",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Spring Onions",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Rice",
+          "so_luong": 30.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Water",
+          "so_luong": 480.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Coriander",
+          "so_luong": 14.175,
+          "don_vi": "g"
+        }
+      ]
+    },
+    {
+      "id": "52831",
+      "ten_mon": "Chicken Karaage",
+      "dinh_muc": [
+        {
+          "ten": "Chicken",
+          "so_luong": 112.5,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Ginger",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Garlic",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Soy Sauce",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Sake",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Granulated Sugar",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Potato Starch",
+          "so_luong": 20.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Vegetable Oil",
+          "so_luong": 20.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Lemon",
+          "so_luong": 20.0,
+          "don_vi": "ml"
+        }
+      ]
+    },
+    {
+      "id": "52920",
+      "ten_mon": "Chicken Marengo",
+      "dinh_muc": [
+        {
+          "ten": "Olive Oil",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Mushrooms",
+          "so_luong": 75.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Chicken Legs",
+          "so_luong": 1.0,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Passata",
+          "so_luong": 125.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Chicken Stock Cube",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Black Olives",
+          "so_luong": 25.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Parsley",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        }
+      ]
+    },
+    {
+      "id": "53164",
+      "ten_mon": "Spanish Chicken",
+      "dinh_muc": [
+        {
+          "ten": "Chicken Thighs",
+          "so_luong": 2.0,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Onion",
+          "so_luong": 0.75,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Paprika",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Lemon",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Parsley",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Chicken Stock",
+          "so_luong": 37.5,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Olive Oil",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        }
+      ]
+    },
+    {
+      "id": "52806",
+      "ten_mon": "Tandoori chicken",
+      "dinh_muc": [
+        {
+          "ten": "Lemons",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Paprika",
+          "so_luong": 5.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Red Onions",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Chicken Thighs",
+          "so_luong": 4.0,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Vegetable Oil",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Greek Yogurt",
+          "so_luong": 75.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Ginger",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Garlic Clove",
+          "so_luong": 1.0,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Garam Masala",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Ground Cumin",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Chilli Powder",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Turmeric",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        }
+      ]
+    },
+    {
+      "id": "52850",
+      "ten_mon": "Chicken Couscous",
+      "dinh_muc": [
+        {
+          "ten": "Olive Oil",
+          "so_luong": 3.75,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Onion",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Chicken Breast",
+          "so_luong": 50.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Ginger",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Harissa Spice",
+          "so_luong": 7.5,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Dried Apricots",
+          "so_luong": 2.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Chickpeas",
+          "so_luong": 55.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Couscous",
+          "so_luong": 50.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Chicken Stock",
+          "so_luong": 50.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Coriander",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        }
+      ]
+    },
+    {
+      "id": "52945",
+      "ten_mon": "Kung Pao Chicken",
+      "dinh_muc": [
+        {
+          "ten": "Sake",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Soy Sauce",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Sesame Seed Oil",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Corn Flour",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Water",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Chicken",
+          "so_luong": 125.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Chilli Powder",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Rice Vinegar",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Brown Sugar",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Spring Onions",
+          "so_luong": 1.0,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Garlic Clove",
+          "so_luong": 1.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Water Chestnut",
+          "so_luong": 55.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Peanuts",
+          "so_luong": 25.0,
+          "don_vi": "g"
+        }
+      ]
+    },
+    {
+      "id": "53565",
+      "ten_mon": "Chicken Lollipop",
+      "dinh_muc": [
+        {
+          "ten": "Chicken Wings",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Black Pepper",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Paprika",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Garlic",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Salt",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Cornstarch",
+          "so_luong": 1.0,
+          "don_vi": "cái"
+        }
+      ]
+    },
+    {
+      "id": "52934",
+      "ten_mon": "Chicken Basquaise",
+      "dinh_muc": [
+        {
+          "ten": "Chicken",
+          "so_luong": 375.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Butter",
+          "so_luong": 6.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Olive Oil",
+          "so_luong": 22.5,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Red Onions",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Red Pepper",
+          "so_luong": 0.75,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Chorizo",
+          "so_luong": 32.5,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Sun-Dried Tomatoes",
+          "so_luong": 2.0,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Garlic",
+          "so_luong": 1.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Basmati Rice",
+          "so_luong": 75.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Tomato Puree",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Paprika",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Bay Leaves",
+          "so_luong": 1.0,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Thyme",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Chicken Stock",
+          "so_luong": 87.5,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Dry White Wine",
+          "so_luong": 45.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Lemons",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Black Olives",
+          "so_luong": 25.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Salt",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Pepper",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        }
+      ]
+    },
+    {
+      "id": "53367",
+      "ten_mon": "Chicken Fried Rice",
+      "dinh_muc": [
+        {
+          "ten": "Chicken Thighs",
+          "so_luong": 113.4,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Salt",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Canola Oil",
+          "so_luong": 0.75,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Egg",
+          "so_luong": 0.75,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Onion",
+          "so_luong": 40.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Garlic",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Ground Ginger",
+          "so_luong": 2.5,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Carrots",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Peas",
+          "so_luong": 40.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Jasmine Rice",
+          "so_luong": 240.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Scallions",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Chinese Five Spice Powder",
+          "so_luong": 0.625,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Soy Sauce",
+          "so_luong": 9.375,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Sesame Seed Oil",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        }
+      ]
+    },
+    {
+      "id": "52879",
+      "ten_mon": "Chicken Parmentier",
+      "dinh_muc": [
+        {
+          "ten": "Potatoes",
+          "so_luong": 375.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Butter",
+          "so_luong": 7.5,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Double Cream",
+          "so_luong": 18.75,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Egg Yolks",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Shallots",
+          "so_luong": 1.75,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Carrots",
+          "so_luong": 0.75,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Celery",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Garlic Clove",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "White Wine",
+          "so_luong": 15.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Tomato Puree",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Tinned Tomatos",
+          "so_luong": 100.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Chicken Stock",
+          "so_luong": 87.5,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Chicken",
+          "so_luong": 150.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Black Olives",
+          "so_luong": 4.0,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Parsley",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Gruyere Cheese",
+          "so_luong": 12.5,
+          "don_vi": "g"
+        }
+      ]
+    },
+    {
+      "id": "52940",
+      "ten_mon": "Brown Stew Chicken",
+      "dinh_muc": [
+        {
+          "ten": "Chicken",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Tomato",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Onions",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Garlic Clove",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Red Pepper",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Carrots",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Lime",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Thyme",
+          "so_luong": 2.5,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Allspice",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Soy Sauce",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Cornstarch",
+          "so_luong": 2.5,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Coconut Milk",
+          "so_luong": 120.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Vegetable Oil",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        }
+      ]
+    },
+    {
+      "id": "53155",
+      "ten_mon": "Spanish chicken pie",
+      "dinh_muc": [
+        {
+          "ten": "Potatoes",
+          "so_luong": 250.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Paprika",
+          "so_luong": 3.75,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Olive Oil",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Onion",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Garlic",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Tinned Tomatos",
+          "so_luong": 200.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Chicken",
+          "so_luong": 75.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Roasted Pepper",
+          "so_luong": 35.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Green Olives",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        }
+      ]
+    },
+    {
+      "id": "52820",
+      "ten_mon": "Katsu Chicken curry",
+      "dinh_muc": [
+        {
+          "ten": "Chicken Breast",
+          "so_luong": 1.0,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Plain Flour",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Egg",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Breadcrumbs",
+          "so_luong": 25.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Vegetable Oil",
+          "so_luong": 57.5,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Sunflower Oil",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Onions",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Garlic",
+          "so_luong": 1.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Carrot",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Curry Powder",
+          "so_luong": 1.0,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Chicken Stock",
+          "so_luong": 150.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Honey",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Soy Sauce",
+          "so_luong": 1.0,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Bay Leaf",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Garam Masala",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        }
+      ]
+    },
+    {
+      "id": "52851",
+      "ten_mon": "Nutty Chicken Curry",
+      "dinh_muc": [
+        {
+          "ten": "Red Chilli",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Ginger",
+          "so_luong": 0.125,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Garlic",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Coriander",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Sunflower Oil",
+          "so_luong": 3.75,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Chicken Breasts",
+          "so_luong": 1.0,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Peanut Butter",
+          "so_luong": 18.75,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Chicken Stock",
+          "so_luong": 37.5,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Greek Yogurt",
+          "so_luong": 50.0,
+          "don_vi": "g"
+        }
+      ]
+    },
+    {
+      "id": "53143",
+      "ten_mon": "Easy Spanish chicken",
+      "dinh_muc": [
+        {
+          "ten": "Extra Virgin Olive Oil",
+          "so_luong": 7.5,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Onion",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Chorizo",
+          "so_luong": 37.5,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Red Pepper",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Yellow Pepper",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Sweet Smoked Paprika",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Garlic",
+          "so_luong": 1.0,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Tinned Tomatos",
+          "so_luong": 100.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Green Olives",
+          "so_luong": 37.5,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Butter Beans",
+          "so_luong": 100.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Chicken Thighs",
+          "so_luong": 2.0,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Parsley",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        }
+      ]
+    },
+    {
+      "id": "52951",
+      "ten_mon": "General Tsos Chicken",
+      "dinh_muc": [
+        {
+          "ten": "Chicken Breast",
+          "so_luong": 0.375,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Plain Flour",
+          "so_luong": 45.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Egg",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Starch",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Baking Powder",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Salt",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Onion Salt",
+          "so_luong": 0.625,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Garlic Powder",
+          "so_luong": 0.312,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Water",
+          "so_luong": 45.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Chicken Stock",
+          "so_luong": 30.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Duck Sauce",
+          "so_luong": 15.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Soy Sauce",
+          "so_luong": 0.75,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Honey",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Rice Vinegar",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Sesame Seed Oil",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Gochujang",
+          "so_luong": 0.125,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Garlic",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Spring Onions",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Ginger",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        }
+      ]
+    },
+    {
+      "id": "53264",
+      "ten_mon": "Smoky chicken skewers",
+      "dinh_muc": [
+        {
+          "ten": "Chicken Thighs",
+          "so_luong": 1.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Olive Oil",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Fennel Seeds",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Ground Cumin",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Sweet Smoked Paprika",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Garlic",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Red Wine Vinegar",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Smoky Aïoli",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        }
+      ]
+    },
+    {
+      "id": "53376",
+      "ten_mon": "Sweet and Sour Chicken",
+      "dinh_muc": [
+        {
+          "ten": "Chicken Thighs",
+          "so_luong": 113.4,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Egg White",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Kosher Salt",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Cornstarch",
+          "so_luong": 2.5,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Pineapple Chunks",
+          "so_luong": 70.875,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Pineapple Juice",
+          "so_luong": 15.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "White Vinegar",
+          "so_luong": 15.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Tomato Ketchup",
+          "so_luong": 15.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Brown Sugar",
+          "so_luong": 0.75,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Oil",
+          "so_luong": 5.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Red Pepper",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Yellow Pepper",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Ginger",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        }
+      ]
+    },
+    {
+      "id": "52813",
+      "ten_mon": "Kentucky Fried Chicken",
+      "dinh_muc": [
+        {
+          "ten": "Chicken",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Oil",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Egg White",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Flour",
+          "so_luong": 90.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Brown Sugar",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Salt",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Paprika",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Onion Salt",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Chili Powder",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Black Pepper",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Celery Salt",
+          "so_luong": 0.125,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Sage",
+          "so_luong": 0.125,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Garlic Powder",
+          "so_luong": 0.125,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Allspice",
+          "so_luong": 0.125,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Oregano",
+          "so_luong": 0.125,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Basil",
+          "so_luong": 0.125,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Marjoram",
+          "so_luong": 0.125,
+          "don_vi": "cái"
+        }
+      ]
+    },
+    {
+      "id": "53365",
+      "ten_mon": "Chinese Orange Chicken",
+      "dinh_muc": [
+        {
+          "ten": "Orange",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Orange Juice",
+          "so_luong": 15.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Soy Sauce",
+          "so_luong": 15.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Water",
+          "so_luong": 15.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Rice Vinegar",
+          "so_luong": 20.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Cornstarch",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Sesame Seed Oil",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Sugar",
+          "so_luong": 30.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Chicken Thighs",
+          "so_luong": 162.5,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Egg",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Salt",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Black Pepper",
+          "so_luong": 0.312,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "All Purpose Flour",
+          "so_luong": 30.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Vegetable Oil",
+          "so_luong": 120.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Garlic",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Shallots",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Scallions",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Sesame Seed",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Rice",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        }
+      ]
+    },
+    {
+      "id": "53530",
+      "ten_mon": "Creamy Mustard Chicken",
+      "dinh_muc": [
+        {
+          "ten": "Chicken Legs",
+          "so_luong": 2.0,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Paprika",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Salt",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Black Pepper",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Olive Oil",
+          "so_luong": 1.0,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Garlic",
+          "so_luong": 0.75,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Onion",
+          "so_luong": 30.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Chicken Stock",
+          "so_luong": 120.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Mustard",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Heavy Cream",
+          "so_luong": 60.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Honey",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Parsley",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        }
+      ]
+    },
+    {
+      "id": "53238",
+      "ten_mon": "Beef pho",
+      "dinh_muc": [
+        {
+          "ten": "Beef Stock",
+          "so_luong": 250.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Onion",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Ginger",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Cinnamon Stick",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Star Anise",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Coriander Seeds",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Cloves",
+          "so_luong": 0.125,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Sirloin Steak",
+          "so_luong": 56.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Palm Sugar",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Fish Sauce",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Soy Sauce",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Rice Noodles",
+          "so_luong": 50.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Spring Onions",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Birds-Eye Chillies",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Basil",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Coriander",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Lime",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        }
+      ]
+    },
+    {
+      "id": "53359",
+      "ten_mon": "Beef Mandi",
+      "dinh_muc": [
+        {
+          "ten": "Basmati Rice",
+          "so_luong": 250.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Beef Stock",
+          "so_luong": 300.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Onion",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Garlic",
+          "so_luong": 1.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Green Chilli",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Tomato",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Salt",
+          "so_luong": 3.125,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Oil",
+          "so_luong": 0.75,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Turmeric Powder",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Cardamom",
+          "so_luong": 0.625,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Cloves",
+          "so_luong": 0.625,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Bay Leaf",
+          "so_luong": 0.625,
+          "don_vi": "ml"
+        }
+      ]
+    },
+    {
+      "id": "53071",
+      "ten_mon": "Beef Asado",
+      "dinh_muc": [
+        {
+          "ten": "Beef",
+          "so_luong": 375.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Beef Stock Concentrate",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Tomato Puree",
+          "so_luong": 2.0,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Water",
+          "so_luong": 180.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Soy Sauce",
+          "so_luong": 1.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "White Wine Vinegar",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Pepper",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Bay Leaf",
+          "so_luong": 1.0,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Lemon",
+          "so_luong": 0.125,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Tomato Sauce",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Butter",
+          "so_luong": 0.75,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Olive Oil",
+          "so_luong": 30.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Onion",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Garlic",
+          "so_luong": 1.0,
+          "don_vi": "cái"
+        }
+      ]
+    },
+    {
+      "id": "52952",
+      "ten_mon": "Beef Lo Mein",
+      "dinh_muc": [
+        {
+          "ten": "Beef",
+          "so_luong": 56.7,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Salt",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Pepper",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Sesame Seed Oil",
+          "so_luong": 2.5,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Egg",
+          "so_luong": 0.125,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Starch",
+          "so_luong": 0.75,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Oil",
+          "so_luong": 1.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Noodles",
+          "so_luong": 28.35,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Onion",
+          "so_luong": 30.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Minced Garlic",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Ginger",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Bean Sprouts",
+          "so_luong": 60.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Mushrooms",
+          "so_luong": 60.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Water",
+          "so_luong": 60.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Oyster Sauce",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Sugar",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Soy Sauce",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        }
+      ]
+    },
+    {
+      "id": "53053",
+      "ten_mon": "Beef Rendang",
+      "dinh_muc": [
+        {
+          "ten": "Beef",
+          "so_luong": 113.4,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Vegetable Oil",
+          "so_luong": 1.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Cinnamon Stick",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Cloves",
+          "so_luong": 0.75,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Star Anise",
+          "so_luong": 0.75,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Cardamom",
+          "so_luong": 0.75,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Coconut Cream",
+          "so_luong": 60.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Water",
+          "so_luong": 60.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Tamarind Paste",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Lime",
+          "so_luong": 1.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Sugar",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Challots",
+          "so_luong": 1.25,
+          "don_vi": "cái"
+        }
+      ]
+    },
+    {
+      "id": "53068",
+      "ten_mon": "Beef Mechado",
+      "dinh_muc": [
+        {
+          "ten": "Garlic",
+          "so_luong": 0.75,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Onion",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Beef",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Tomato Puree",
+          "so_luong": 2.0,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Water",
+          "so_luong": 60.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Olive Oil",
+          "so_luong": 0.75,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Lemon",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Potatoes",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Soy Sauce",
+          "so_luong": 15.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Black Pepper",
+          "so_luong": 0.625,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Bay Leaves",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Salt",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        }
+      ]
+    },
+    {
+      "id": "52950",
+      "ten_mon": "Szechuan Beef",
+      "dinh_muc": [
+        {
+          "ten": "Beef",
+          "so_luong": 56.7,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Salt",
+          "so_luong": 0.625,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Sesame Seed Oil",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Pepper",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Egg White",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Starch",
+          "so_luong": 0.75,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Oil",
+          "so_luong": 1.0,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Ginger",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Garlic",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Onion",
+          "so_luong": 45.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Carrots",
+          "so_luong": 30.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Green Pepper",
+          "so_luong": 45.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Celery",
+          "so_luong": 60.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Mushrooms",
+          "so_luong": 60.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Cooking Wine",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Water",
+          "so_luong": 60.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Oyster Sauce",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Hotsauce",
+          "so_luong": 0.625,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Sugar",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Soy Sauce",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        }
+      ]
+    },
+    {
+      "id": "53070",
+      "ten_mon": "Beef Caldereta",
+      "dinh_muc": [
+        {
+          "ten": "Beef",
+          "so_luong": 500.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Beef Stock",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Soy Sauce",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Water",
+          "so_luong": 120.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Green Pepper",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Red Pepper",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Potatoes",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Carrots",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Tomato Puree",
+          "so_luong": 2.0,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Peanut Butter",
+          "so_luong": 0.75,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Chilli Powder",
+          "so_luong": 1.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Onion",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Garlic",
+          "so_luong": 1.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Olive Oil",
+          "so_luong": 0.75,
+          "don_vi": "cái"
+        }
+      ]
+    },
+    {
+      "id": "53317",
+      "ten_mon": "Beef Empanadas",
+      "dinh_muc": [
+        {
+          "ten": "Lard",
+          "so_luong": 15.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Water",
+          "so_luong": 85.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Salt",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "All Purpose Flour",
+          "so_luong": 150.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Tomato",
+          "so_luong": 0.75,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Garlic",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Red Onions",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Spring Onions",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Sirloin Steak",
+          "so_luong": 187.5,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Dried Oregano",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Paprika",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Red Pepper Flakes",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Parsley",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Pepper",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Egg",
+          "so_luong": 0.75,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Egg Wash",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Chimichurri Sauce",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        }
+      ]
+    },
+    {
+      "id": "52803",
+      "ten_mon": "Beef Wellington",
+      "dinh_muc": [
+        {
+          "ten": "Mushrooms",
+          "so_luong": 100.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "English Mustard",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Olive Oil",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Beef Fillet",
+          "so_luong": 187.5,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Parma Ham",
+          "so_luong": 1.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Puff Pastry",
+          "so_luong": 125.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Flour",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Egg Yolks",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        }
+      ]
+    },
+    {
+      "id": "52834",
+      "ten_mon": "Beef stroganoff",
+      "dinh_muc": [
+        {
+          "ten": "Olive Oil",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Onions",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Garlic",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Butter",
+          "so_luong": 3.75,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Mushrooms",
+          "so_luong": 62.5,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Beef Fillet",
+          "so_luong": 125.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Plain Flour",
+          "so_luong": 3.75,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Creme Fraiche",
+          "so_luong": 37.5,
+          "don_vi": "g"
+        },
+        {
+          "ten": "English Mustard",
+          "so_luong": 3.75,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Beef Stock",
+          "so_luong": 25.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Parsley",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        }
+      ]
+    },
+    {
+      "id": "52876",
+      "ten_mon": "Minced Beef Pie",
+      "dinh_muc": [
+        {
+          "ten": "Vegetable Oil",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Minced Beef",
+          "so_luong": 125.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Onion",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Tomato Puree",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Plain Flour",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Mushrooms",
+          "so_luong": 18.75,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Beef Stock",
+          "so_luong": 62.5,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Worcestershire Sauce",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Shortcrust Pastry",
+          "so_luong": 100.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Egg Yolks",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        }
+      ]
+    },
+    {
+      "id": "52904",
+      "ten_mon": "Beef Bourguignon",
+      "dinh_muc": [
+        {
+          "ten": "Goose Fat",
+          "so_luong": 3.75,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Beef Shin",
+          "so_luong": 150.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Bacon",
+          "so_luong": 25.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Challots",
+          "so_luong": 87.5,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Chestnut Mushroom",
+          "so_luong": 62.5,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Garlic Clove",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Bouquet Garni",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Tomato Puree",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Red Wine",
+          "so_luong": 187.5,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Celeriac",
+          "so_luong": 150.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Olive Oil",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Thyme",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Rosemary",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Bay Leaf",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Cardamom",
+          "so_luong": 1.0,
+          "don_vi": "cái"
+        }
+      ]
+    },
+    {
+      "id": "53096",
+      "ten_mon": "Corned Beef Hash",
+      "dinh_muc": [
+        {
+          "ten": "Unsalted Butter",
+          "so_luong": 0.75,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Onion",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Corned Beef",
+          "so_luong": 180.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Potatoes",
+          "so_luong": 0.75,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Kosher Salt",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Black Pepper",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Freshly Chopped Parsley",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        }
+      ]
+    },
+    {
+      "id": "52824",
+      "ten_mon": "Beef Sunday Roast",
+      "dinh_muc": [
+        {
+          "ten": "Beef",
+          "so_luong": 2.0,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Broccoli",
+          "so_luong": 3.0,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Potatoes",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Carrots",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Plain Flour",
+          "so_luong": 35.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Eggs",
+          "so_luong": 1.0,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Milk",
+          "so_luong": 50.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Sunflower Oil",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        }
+      ]
+    },
+    {
+      "id": "53469",
+      "ten_mon": "Beef pumpkin Stew",
+      "dinh_muc": [
+        {
+          "ten": "Beef",
+          "so_luong": 0.75,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "All Purpose Flour",
+          "so_luong": 30.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Butter",
+          "so_luong": 0.75,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Onion",
+          "so_luong": 60.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Garlic",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Beef Stock",
+          "so_luong": 240.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Pumpkin Puree",
+          "so_luong": 180.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Worcestershire Sauce",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Kosher Salt",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Black Pepper",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Potatoes",
+          "so_luong": 0.75,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Carrots",
+          "so_luong": 113.4,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Thyme",
+          "so_luong": 1.0,
+          "don_vi": "cái"
+        }
+      ]
+    },
+    {
+      "id": "53112",
+      "ten_mon": "Kenyan Beef Curry",
+      "dinh_muc": [
+        {
+          "ten": "Water",
+          "so_luong": 240.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Sirloin Steak Tips",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Garlic Clove",
+          "so_luong": 1.0,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Ground Ginger",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Oil",
+          "so_luong": 7.5,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Red Onions",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Tomato",
+          "so_luong": 1.0,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Paprika",
+          "so_luong": 7.5,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Black Pepper",
+          "so_luong": 0.125,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Curry Powder",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Tomato Puree",
+          "so_luong": 1.0,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Salt",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Chilli",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Cilantro",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        }
+      ]
+    },
+    {
+      "id": "52873",
+      "ten_mon": "Beef Dumpling Stew",
+      "dinh_muc": [
+        {
+          "ten": "Olive Oil",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Butter",
+          "so_luong": 6.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Beef",
+          "so_luong": 187.5,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Plain Flour",
+          "so_luong": 7.5,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Garlic",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Onions",
+          "so_luong": 43.75,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Celery",
+          "so_luong": 37.5,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Carrots",
+          "so_luong": 37.5,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Leek",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Swede",
+          "so_luong": 50.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Red Wine",
+          "so_luong": 37.5,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Beef Stock",
+          "so_luong": 125.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Bay Leaf",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Thyme",
+          "so_luong": 0.75,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Parsley",
+          "so_luong": 11.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Baking Powder",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Suet",
+          "so_luong": 15.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Water",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        }
+      ]
+    },
+    {
+      "id": "53199",
+      "ten_mon": "Thai beef stir-fry",
+      "dinh_muc": [
+        {
+          "ten": "Vegetable Oil",
+          "so_luong": 7.5,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Beef",
+          "so_luong": 100.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Red Chilli",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Oyster Sauce",
+          "so_luong": 7.5,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Basil Leaves",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        }
+      ]
+    },
+    {
+      "id": "53511",
+      "ten_mon": "Salt Beef and Beans",
+      "dinh_muc": [
+        {
+          "ten": "Corned Beef",
+          "so_luong": 113.4,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Kidney Beans",
+          "so_luong": 90.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Scotch Bonnet",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Scallions",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Thyme",
+          "so_luong": 0.312,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Garlic",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Water",
+          "so_luong": 120.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Coconut Milk",
+          "so_luong": 180.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Bay Leaf",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Allspice",
+          "so_luong": 1.5,
+          "don_vi": "cái"
+        }
+      ]
+    },
+    {
+      "id": "52826",
+      "ten_mon": "Braised Beef Chilli",
+      "dinh_muc": [
+        {
+          "ten": "Beef",
+          "so_luong": 250.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Onions",
+          "so_luong": 0.75,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Garlic",
+          "so_luong": 1.0,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Olive Oil",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Chorizo",
+          "so_luong": 75.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Cumin",
+          "so_luong": 2.5,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Allspice",
+          "so_luong": 2.5,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Cloves",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Cinnamon Stick",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Bay Leaves",
+          "so_luong": 0.75,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Oregano",
+          "so_luong": 2.5,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Ancho Chillies",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Balsamic Vinegar",
+          "so_luong": 11.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Plum Tomatoes",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Tomato Ketchup",
+          "so_luong": 7.5,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Dark Brown Sugar",
+          "so_luong": 7.5,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Borlotti Beans",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        }
+      ]
+    },
+    {
+      "id": "52827",
+      "ten_mon": "Massaman Beef curry",
+      "dinh_muc": [
+        {
+          "ten": "Peanuts",
+          "so_luong": 21.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Coconut Cream",
+          "so_luong": 100.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Massaman Curry Paste",
+          "so_luong": 15.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Beef",
+          "so_luong": 150.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Potatoes",
+          "so_luong": 112.5,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Onion",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Lime",
+          "so_luong": 1.0,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Cinnamon Stick",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Tamarind Paste",
+          "so_luong": 3.75,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Brown Sugar",
+          "so_luong": 3.75,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Fish Sauce",
+          "so_luong": 3.75,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Chilli",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Jasmine Rice",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        }
+      ]
+    },
+    {
+      "id": "52878",
+      "ten_mon": "Beef and Oyster pie",
+      "dinh_muc": [
+        {
+          "ten": "Beef",
+          "so_luong": 225.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Olive Oil",
+          "so_luong": 0.75,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Shallots",
+          "so_luong": 0.75,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Garlic",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Bacon",
+          "so_luong": 31.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Thyme",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Bay Leaf",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Stout",
+          "so_luong": 82.5,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Beef Stock",
+          "so_luong": 100.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Corn Flour",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Oysters",
+          "so_luong": 2.0,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Plain Flour",
+          "so_luong": 100.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Salt",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Butter",
+          "so_luong": 62.5,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Eggs",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        }
+      ]
+    },
+    {
+      "id": "52874",
+      "ten_mon": "Beef and Mustard Pie",
+      "dinh_muc": [
+        {
+          "ten": "Beef",
+          "so_luong": 250.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Plain Flour",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Rapeseed Oil",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Red Wine",
+          "so_luong": 50.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Beef Stock",
+          "so_luong": 100.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Onion",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Carrots",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Thyme",
+          "so_luong": 0.75,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Mustard",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Egg Yolks",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Puff Pastry",
+          "so_luong": 100.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Green Beans",
+          "so_luong": 75.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Butter",
+          "so_luong": 6.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Salt",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Pepper",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        }
+      ]
+    },
+    {
+      "id": "52938",
+      "ten_mon": "Jamaican Beef Patties",
+      "dinh_muc": [
+        {
+          "ten": "Plain Flour",
+          "so_luong": 240.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Salt",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Curry Powder",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Butter",
+          "so_luong": 62.5,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Water",
+          "so_luong": 60.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Minced Beef",
+          "so_luong": 225.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Allspice",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Black Pepper",
+          "so_luong": 0.625,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Vegetable Oil",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Onions",
+          "so_luong": 60.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Red Pepper",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Garlic",
+          "so_luong": 2.5,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Thyme",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Tomato Ketchup",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Egg",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        }
+      ]
+    },
+    {
+      "id": "52802",
+      "ten_mon": "Fish pie",
+      "dinh_muc": [
+        {
+          "ten": "Floury Potatoes",
+          "so_luong": 225.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Olive Oil",
+          "so_luong": 7.5,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Semi-Skimmed Milk",
+          "so_luong": 150.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "White Fish Fillets",
+          "so_luong": 200.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Plain Flour",
+          "so_luong": 3.75,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Nutmeg",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Double Cream",
+          "so_luong": 11.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Jerusalem Artichokes",
+          "so_luong": 50.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Leek",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Prawns",
+          "so_luong": 50.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Parsley",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Dill",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Lemon",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Gruyère",
+          "so_luong": 6.25,
+          "don_vi": "g"
+        }
+      ]
+    },
+    {
+      "id": "53043",
+      "ten_mon": "Fish fofos",
+      "dinh_muc": [
+        {
+          "ten": "Haddock",
+          "so_luong": 150.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Potatoes",
+          "so_luong": 75.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Green Chilli",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Coriander",
+          "so_luong": 0.75,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Cumin Seeds",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Pepper",
+          "so_luong": 0.625,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Garlic",
+          "so_luong": 0.75,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Ginger",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Flour",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Eggs",
+          "so_luong": 0.75,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Breadcrumbs",
+          "so_luong": 18.75,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Vegetable Oil",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        }
+      ]
+    },
+    {
+      "id": "52882",
+      "ten_mon": "Three Fish Pie",
+      "dinh_muc": [
+        {
+          "ten": "Potatoes",
+          "so_luong": 250.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Butter",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Milk",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Gruyere",
+          "so_luong": 12.5,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Leek",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Plain Flour",
+          "so_luong": 18.75,
+          "don_vi": "g"
+        },
+        {
+          "ten": "White Wine",
+          "so_luong": 37.5,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Parsley",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Salmon",
+          "so_luong": 62.5,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Haddock",
+          "so_luong": 62.5,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Smoked Haddock",
+          "so_luong": 62.5,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Eggs",
+          "so_luong": 1.5,
+          "don_vi": "cái"
+        }
+      ]
+    },
+    {
+      "id": "52944",
+      "ten_mon": "Escovitch Fish",
+      "dinh_muc": [
+        {
+          "ten": "Red Snapper",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Vegetable Oil",
+          "so_luong": 30.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Garlic",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Ginger",
+          "so_luong": 0.625,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Thyme",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Bay Leaf",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Red Pepper",
+          "so_luong": 0.125,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Yellow Pepper",
+          "so_luong": 0.125,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Onion",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Carrots",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Sugar",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Allspice",
+          "so_luong": 0.625,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Worcestershire Sauce",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Scotch Bonnet",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Lime",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Malt Vinegar",
+          "so_luong": 45.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Pepper",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        }
+      ]
+    },
+    {
+      "id": "53079",
+      "ten_mon": "Fish Soup (Ukha)",
+      "dinh_muc": [
+        {
+          "ten": "Olive Oil",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Onion",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Carrots",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Fish Stock",
+          "so_luong": 180.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Water",
+          "so_luong": 180.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Potatoes",
+          "so_luong": 1.0,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Bay Leaf",
+          "so_luong": 0.75,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Cod",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Salmon",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        }
+      ]
+    },
+    {
+      "id": "52936",
+      "ten_mon": "Saltfish and Ackee",
+      "dinh_muc": [
+        {
+          "ten": "Salt Cod",
+          "so_luong": 112.5,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Ackee",
+          "so_luong": 100.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Onion",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Paprika",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Curry Powder",
+          "so_luong": 2.5,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Jerusalem Artichokes",
+          "so_luong": 2.5,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Hotsauce",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Red Pepper",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Yellow Pepper",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Tomatoes",
+          "so_luong": 50.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Salt",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Pepper",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Self-Raising Flour",
+          "so_luong": 62.5,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Suet",
+          "so_luong": 7.5,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Olive Oil",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        }
+      ]
+    },
+    {
+      "id": "52809",
+      "ten_mon": "Recheado Masala Fish",
+      "dinh_muc": [
+        {
+          "ten": "Mackerel",
+          "so_luong": 1.0,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Red Chilli",
+          "so_luong": 4.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Ginger",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Garlic",
+          "so_luong": 2.0,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Pepper",
+          "so_luong": 1.875,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Cumin",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Turmeric",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Cinnamon Stick",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Cloves",
+          "so_luong": 1.0,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Cardamom",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Sugar",
+          "so_luong": 3.75,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Tamarind Ball",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Vinegar",
+          "so_luong": 9.375,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Oil",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        }
+      ]
+    },
+    {
+      "id": "53561",
+      "ten_mon": "Codfish deviled eggs",
+      "dinh_muc": [
+        {
+          "ten": "Eggs",
+          "so_luong": 3.0,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Mayonnaise",
+          "so_luong": 1.75,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Mustard",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Pepper",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Salt",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Paprika",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Chives",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Black Pepper",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Codfish Bulljaw",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        }
+      ]
+    },
+    {
+      "id": "53361",
+      "ten_mon": "Callaloo and SaltFish",
+      "dinh_muc": [
+        {
+          "ten": "Salt Cod",
+          "so_luong": 56.7,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Bacon",
+          "so_luong": 1.0,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Callaloo",
+          "so_luong": 131.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Onion",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Spring Onions",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Garlic",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Scotch Bonnet",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Plum Tomatoes",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Thyme",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Black Pepper",
+          "so_luong": 0.312,
+          "don_vi": "ml"
+        }
+      ]
+    },
+    {
+      "id": "52918",
+      "ten_mon": "Fish Stew with Rouille",
+      "dinh_muc": [
+        {
+          "ten": "Prawns",
+          "so_luong": 1.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Olive Oil",
+          "so_luong": 0.75,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Dry White Wine",
+          "so_luong": 37.5,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Fish Stock",
+          "so_luong": 50.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Fennel",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Onion",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Garlic",
+          "so_luong": 0.75,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Potatoes",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Orange",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Star Anise",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Bay Leaf",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Harissa Spice",
+          "so_luong": 1.875,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Tomato Puree",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Chopped Tomatoes",
+          "so_luong": 100.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Mussels",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "White Fish",
+          "so_luong": 50.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Thyme",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Bread",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        }
+      ]
+    },
+    {
+      "id": "52819",
+      "ten_mon": "Cajun spiced fish tacos",
+      "dinh_muc": [
+        {
+          "ten": "Cajun",
+          "so_luong": 7.5,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Cayenne Pepper",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "White Fish",
+          "so_luong": 1.0,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Vegetable Oil",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Flour Tortilla",
+          "so_luong": 2.0,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Avocado",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Little Gem Lettuce",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Spring Onions",
+          "so_luong": 1.0,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Salsa",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Sour Cream",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Lemon",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Garlic",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        }
+      ]
+    },
+    {
+      "id": "53202",
+      "ten_mon": "Thai-style steamed fish",
+      "dinh_muc": [
+        {
+          "ten": "Trout",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Ginger",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Garlic Clove",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Red Chilli",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Lime",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Baby Pak Koi",
+          "so_luong": 0.75,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Soy Sauce",
+          "so_luong": 7.5,
+          "don_vi": "ml"
+        }
+      ]
+    },
+    {
+      "id": "53577",
+      "ten_mon": "Sauerkraut and Fish Salad",
+      "dinh_muc": [
+        {
+          "ten": "Sauerkraut",
+          "so_luong": 50.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Smoked Haddock",
+          "so_luong": 25.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Egg",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Rye Bread",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Oil",
+          "so_luong": 50.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Honey",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Salt",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        }
+      ]
+    },
+    {
+      "id": "53213",
+      "ten_mon": "Thai-style fish broth with greens",
+      "dinh_muc": [
+        {
+          "ten": "Brown Rice Noodle",
+          "so_luong": 25.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Chicken Stock",
+          "so_luong": 125.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Thai Red Curry Paste",
+          "so_luong": 3.75,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Lime Leaves",
+          "so_luong": 1.0,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Fish Sauce",
+          "so_luong": 3.75,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "White Fish",
+          "so_luong": 50.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Raw King Prawns",
+          "so_luong": 25.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Pak Choi",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Coriander Leaves",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        }
+      ]
+    },
+    {
+      "id": "53451",
+      "ten_mon": "Bangladeshi fish curry with daikon",
+      "dinh_muc": [
+        {
+          "ten": "White Fish",
+          "so_luong": 112.5,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Daikon Radish",
+          "so_luong": 112.5,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Vegetable Oil",
+          "so_luong": 1.0,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Garlic",
+          "so_luong": 1.0,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Onion",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Salt",
+          "so_luong": 2.5,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Ground Turmeric",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Ground Coriander",
+          "so_luong": 2.5,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Chilli Powder",
+          "so_luong": 2.5,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Green Chilli",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Coriander Leaves",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Lime",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        }
+      ]
+    },
+    {
+      "id": "53495",
+      "ten_mon": "Amok Trey – Cambodian Fish Curry",
+      "dinh_muc": [
+        {
+          "ten": "Fish Fillet",
+          "so_luong": 113.4,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Coconut Milk",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Red Curry Paste",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Fish Sauce",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Brown Sugar",
+          "so_luong": 1.25,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Chicken Stock",
+          "so_luong": 60.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Egg",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Kaffir Lime Leaves",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Vegetable Oil",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Banana Leaves",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Cilantro",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Lime",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        }
+      ]
+    },
+    {
+      "id": "53122",
+      "ten_mon": "Fiskesuppe (Creamy Norwegian Fish Soup)",
+      "dinh_muc": [
+        {
+          "ten": "Fish Fillet",
+          "so_luong": 113.4,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Garlic",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Potatoes",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Carrots",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Leek",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Butter",
+          "so_luong": 0.75,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Flour",
+          "so_luong": 1.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Fish Stock",
+          "so_luong": 240.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Milk",
+          "so_luong": 60.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Creme Fraiche",
+          "so_luong": 75.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Shrimp",
+          "so_luong": 60.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Chives",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        }
+      ]
+    },
+    {
+      "id": "53045",
+      "ten_mon": "Portuguese fish stew (Caldeirada de peixe)",
+      "dinh_muc": [
+        {
+          "ten": "Onions",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Red Pepper",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Coriander",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Red Chilli",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Garlic",
+          "so_luong": 0.75,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Dry White Wine",
+          "so_luong": 100.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Saffron",
+          "so_luong": 1.25,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Bay Leaf",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Potatoes",
+          "so_luong": 75.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Plum Tomatoes",
+          "so_luong": 100.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Cod",
+          "so_luong": 150.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Squid",
+          "so_luong": 75.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Tiger Prawns",
+          "so_luong": 2.0,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Clams",
+          "so_luong": 125.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Mussels",
+          "so_luong": 125.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Baguette",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        }
+      ]
+    },
+    {
+      "id": "53430",
+      "ten_mon": "Antiguan Breakfast (Chop Up and ‘Saltfish’)",
+      "dinh_muc": [
+        {
+          "ten": "Egg Plants",
+          "so_luong": 1.0,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Callaloo",
+          "so_luong": 56.7,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Pumpkin",
+          "so_luong": 113.4,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Garlic",
+          "so_luong": 0.75,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Onion",
+          "so_luong": 0.25,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Butter",
+          "so_luong": 14.175,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Salt",
+          "so_luong": 0.625,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Black Pepper",
+          "so_luong": 0.312,
+          "don_vi": "ml"
+        }
+      ]
+    },
+    {
+      "id": "53419",
+      "ten_mon": "Crispy fried fish with ginger and fermented soybeans (trey chien chuon)",
+      "dinh_muc": [
+        {
+          "ten": "Ginger",
+          "so_luong": 120.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Fish Fillet",
+          "so_luong": 113.4,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Tempura Flour",
+          "so_luong": 0.5,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Oil",
+          "so_luong": 120.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Garlic",
+          "so_luong": 1.0,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Soya Bean",
+          "so_luong": 200.0,
+          "don_vi": "g"
+        },
+        {
+          "ten": "Sugar",
+          "so_luong": 0.125,
+          "don_vi": "cái"
+        },
+        {
+          "ten": "Water",
+          "so_luong": 30.0,
+          "don_vi": "ml"
+        },
+        {
+          "ten": "Spring Onions",
+          "so_luong": 0.75,
+          "don_vi": "cái"
+        }
+      ]
+    }
+  ]
+}
