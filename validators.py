@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """Kiểm tra dữ liệu: Regular Expression (email, SĐT, mã định danh, ngày) và chuyển đổi số."""
 import math
 import re
